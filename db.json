@@ -1,18 +1,21 @@
 {
     "autok": [
       {
+        "id":1,
         "rendszam": "ggv034",
         "markanev": "Opel",
         "tipus":"Astra",
         "alvazszam":"kjhfkjh979j"
       },
        {
+        "id":2,
         "rendszam": "edu324",
         "markanev": "BMW",
         "tipus":"501",
         "alvazszam":"ioufroio9"
       }, 
        {
+        "id":3,
         "rendszam": "rbc145",
         "markanev": "Toyota",
         "tipus":"Corolla",
